@@ -1,0 +1,8 @@
+ID
+Title
+Preconditions
+Inputs
+Expected result
+Actual result
+Status
+Bug
